@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebcamViewer2 Camera", "WebcamViewer2\WebcamViewer2 Camera.csproj", "{3607195F-879F-40C1-9CAF-AEA9AB864577}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCamViewer2 Server", "WebCamViewer2 Server\WebCamViewer2 Server.csproj", "{FDF1021F-E2B9-4D6E-AC0A-35BFA02BD291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamViewser2 Client", "WebCamViewser2 Client\WebCamViewser2 Client.csproj", "{63498E96-8F89-4F77-9F63-9C4A8A866E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3607195F-879F-40C1-9CAF-AEA9AB864577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3607195F-879F-40C1-9CAF-AEA9AB864577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3607195F-879F-40C1-9CAF-AEA9AB864577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3607195F-879F-40C1-9CAF-AEA9AB864577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF1021F-E2B9-4D6E-AC0A-35BFA02BD291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF1021F-E2B9-4D6E-AC0A-35BFA02BD291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF1021F-E2B9-4D6E-AC0A-35BFA02BD291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF1021F-E2B9-4D6E-AC0A-35BFA02BD291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63498E96-8F89-4F77-9F63-9C4A8A866E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63498E96-8F89-4F77-9F63-9C4A8A866E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63498E96-8F89-4F77-9F63-9C4A8A866E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63498E96-8F89-4F77-9F63-9C4A8A866E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88534E5D-C3C7-4A4A-ADE1-05041A3770DA}
+	EndGlobalSection
+EndGlobal
